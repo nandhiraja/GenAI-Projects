@@ -1,0 +1,13 @@
+
+
+
+langchain
+langchain-core
+langchain-groq
+langchain-community
+huggingface==0.0.1
+huggingface-hub==0.21.4
+sentence-transformers==2.5.1
+chromadb==0.4.24
+wget==3.2
+python-dotenv
