@@ -1,0 +1,7 @@
+Flask
+requests
+Pillow
+langchain-core
+langchain-groq
+python-dotenv
+flask-cors
