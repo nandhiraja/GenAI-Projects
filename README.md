@@ -20,7 +20,7 @@ Below is a list of current and planned projects in this repository:
 3. **AI-Based Recommendation System**
    - Suggests legal documents or articles based on user queries and preferences.
 
-4. **Text-to-Image Generation** *(Planned)*
+4. **Text-to-Image Generation**
    - Generate images based on textual descriptions using diffusion models.
 
 5. **AI-Powered Content Creation** *(Planned)*
