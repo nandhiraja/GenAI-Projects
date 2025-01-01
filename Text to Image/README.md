@@ -3,9 +3,8 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/legal-doc-summarization.git
-   cd legal-doc-summarization
-   ```
+   git clone https://github.com/yourusername/GenAI-Project.git
+   cd GenAI-Project/Text to Image  ```
 
 2. Create a virtual environment:
    ```bash
