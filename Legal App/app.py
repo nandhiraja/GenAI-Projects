@@ -13,11 +13,11 @@ from langchain_groq import ChatGroq
 from langchain.text_splitter import CharacterTextSplitter
 
 # Google Sheets Configuration
-SERVICE_ACCOUNT_FILE = "/home/nandhiraja/Nandhiraja C/project/infosys/infosys-449015-83ef8f804adb.json"  # Replace with your service account file
-SPREADSHEET_ID = "1rvEwtYh7mpqcBZgv7D14giGZ_mhBM-aiNZ_dxjJJQf0"  # Replace with your Google Sheet ID
+SERVICE_ACCOUNT_FILE = ""  # Replace with your service account file
+SPREADSHEET_ID = ""  # Replace with your Google Sheet ID
 
 # LLM Configuration
-API_KEY = "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"  # Replace with your Groq API key
+API_KEY = ""  # Replace with your Groq API key
 MODEL_NAME = "llama-3.2-11b-vision-preview"
 llm = ChatGroq(groq_api_key=API_KEY, model_name=MODEL_NAME)
 
