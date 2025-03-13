@@ -1,0 +1,13 @@
+streamlit==1.26.0
+pandas==1.5.3
+google-api-python-client==2.94.0
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+email-validator==2.0.0.post2
+torch==2.0.1
+transformers==4.31.0
+langchain==0.0.244
+langchain-huggingface==0.0.6
+langchain-groq==0.0.2
+sentence-transformers==2.2.2
+chromadb==0.3.25
